@@ -1,5 +1,5 @@
--See the lve Demo of this project : "https://gadgetpulse.netlify.app/"
+-See the live Demo of this project : "https://gadgetpulse.netlify.app/"
 
-Deleoped by ANIK Paul (me)
+Developed by Anik Paul (me)
 
 Happy coding 😊
